@@ -16,3 +16,7 @@
 Terlampir
 
 ## Output
+
+![Alt text](<Screenshot%20(14).png>)
+
+![Alt text](<Screenshot%20(15).png>)
